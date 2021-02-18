@@ -12,14 +12,14 @@ var trackimg, car1img, car2img, car3img, car4img, groundimg;
 
 function preload()
 {
-  trackimg=loadImage("../images/track.jpg");
+  trackimg=loadImage("images/track.jpg");
 
-  car1img=loadImage("../images/car1.png");
-  car2img=loadImage("../images/car2.png");
-  car3img=loadImage("../images/car3.png");
-  car4img=loadImage("../images/car4.png");
+  car1img=loadImage("images/car1.png");
+  car2img=loadImage("images/car2.png");
+  car3img=loadImage("images/car3.png");
+  car4img=loadImage("images/car4.png");
 
-  groundimg=loadImage("../images/ground.png");
+  groundimg=loadImage("images/ground.png");
 
 }
 
